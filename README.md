@@ -1,0 +1,2 @@
+# History
+Delete History navigation 
